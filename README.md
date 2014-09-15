@@ -1,7 +1,7 @@
 Ansible Common Role
 =========
 
-[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-common.png)](http://travis-ci.org/martinmicunda/ansible-role-common) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.nodejs-blue.svg)](https://galaxy.ansible.com/list#/roles/1708) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
+[![Build Status](https://secure.travis-ci.org/martinmicunda/ansible-role-common.png)](http://travis-ci.org/martinmicunda/ansible-role-common) [![Ansible Galaxy](http://img.shields.io/badge/galaxy-martinmicunda.common-blue.svg)](https://galaxy.ansible.com/list#/roles/1708) [![Platforms](http://img.shields.io/badge/platforms-ubuntu-orange.svg)](#)
 
 An ansible role for installing common system packages like:
 
