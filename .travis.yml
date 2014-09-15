@@ -30,7 +30,7 @@ script:
     && (echo 'Idempotence test: PASS' && exit 0)
     || (echo 'Idempotence test: FAIL' && exit 1)
 
-  - command --help curl || exit 1
-  - command --help wget || exit 1
-  - command --version git || exit 1
+  - command curl --help  || exit 1
+  - command wget --help || exit 1
+  - command -v git || exit 1
   - command -v unzip || exit 1
