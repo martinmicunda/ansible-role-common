@@ -16,4 +16,5 @@
     - curl
     - unzip
     - git
+    - g++
   tags: common
