@@ -10,6 +10,7 @@ An ansible role for installing common system packages like:
     - curl
     - unzip
     - git
+    - g++
 
 Installation
 ------------
